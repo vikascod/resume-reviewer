@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 2. Clone the repository:
 
     ```bash
-    git clone 
+    git clone https://github.com/vikascod/resume-reviewer
 
 3. Set up environment variables:
 
