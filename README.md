@@ -24,7 +24,6 @@ To set up the project locally, follow these steps:
 
 Create a .env file in the project root directory and add the following:
 
-    ```bash
     GOOGLE_API_KEY=your_google_api_key_here
 
 4. To run the application locally, execute the following command:
